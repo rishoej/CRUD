@@ -1,7 +1,7 @@
 # CRUD
 Recipe and ingredients list CRUD app. Using node, express, ejs and mongoDB.
 
-#How to
+# How to
 - git clone
 - cd CRUD folder
 - npm install
