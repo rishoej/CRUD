@@ -1,5 +1,5 @@
 # CRUD
-Recipe and ingredients list CRUD app. Using node, express, ejs, mongoose and mongoDB.
+CRUD recipe and ingredients list app. Using node, express, ejs, mongoose and mongoDB.
 
 # How to
 - git clone
